@@ -85,5 +85,10 @@ body{
    display: none;
    
 }
+@media screen and (max-width:450px){
+    .card-container{
+       font-size: 10px;
+    }
+}
 
 
